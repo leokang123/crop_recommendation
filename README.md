@@ -1,2 +1,2 @@
-# crop recommendation
+# recipe app
 
